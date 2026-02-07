@@ -2,12 +2,7 @@
 
 ## Overview
 
-This project is dedicated to network troubleshooting in **Cisco Packet Tracer** and is part of the **Network Design** topic.
-
-During the topic, practical tasks were completed by following step-by-step instructions.  
-This project represents **independent work** and consists of **three tasks**.
-
-To start working with the project, download the provided file and open it in **Cisco Packet Tracer**.
+This project is dedicated to network troubleshooting in **Cisco Packet Tracer** 
 
 ---
 
